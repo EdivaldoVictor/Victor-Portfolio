@@ -97,11 +97,12 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Intern at DEF Startups (2019){" "}
+                    Período íntegral na start-up Aicury, Agindo no Devops{" "}
                   </h4>
                   <p>
-                    Assisted in building front-end components and integration
-                    REST APIs
+                    Desenvolvi Deploys automatizados utilizando Azure Devops
+                    e Github Actions, Criando pipelines que facilitivam nas
+                    Rotinas diárias.
                   </p>
                 </div>
               </div>
