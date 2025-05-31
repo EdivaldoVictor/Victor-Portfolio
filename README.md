@@ -1,63 +1,61 @@
-# Personal Portfolio
+# Portfolio Pessoal
 
-This repository contains a beautiful, responsive personal portfolio built using **React**, **Vite**, and **TailwindCSS**. The project showcases modern web development techniques including smooth animations, responsive layouts, and interactive UI components.
+Este repositório contém um portfólio pessoal bonito e responsivo construído por mim utilizando React, Vite e TailwindCSS. O projeto demonstra técnicas modernas de desenvolvimento web, incluindo animações suaves, layouts responsivos e componentes de interface interativos.
 
-### Want to watch this?
-[![Check this out](https://img.youtube.com/vi/LGdPMf-SgBA/maxresdefault.jpg)](https://youtu.be/LGdPMf-SgBA)
+## Funcionalidades
+**Design Moderno**: Layout limpo, inspirado em SaaS, com uma barra de navegação com efeito de vidro e animações elegantes.
 
+**Layout Responsivo**: Totalmente responsivo para desktops, tablets e dispositivos móveis.
 
-## Features
+**Componentes Interativos**: Seções animadas e menu hambúrguer amigável para dispositivos móveis com transições suaves.
 
-- **Modern Design:** Clean, SaaS-inspired design with a glass-effect navbar and sleek animations.
-- **Responsive Layout:** Fully responsive across desktop, tablet, and mobile devices.
-- **Interactive Components:** Animated sections and a mobile-friendly hamburger menu with smooth transitions.
-- **Optimized Performance:** Fast development build using Vite with TailwindCSS for efficient styling.
+**Desempenho Otimizado**: Build de desenvolvimento rápida usando Vite com TailwindCSS para uma estilização eficiente.
 
-## Technologies
+## Tecnologias
 
-- **React:** Component-based UI library.
-- **Vite:** Fast and lean development build tool.
-- **TailwindCSS:** Utility-first CSS framework.
-- **JavaScript (ES6+):** Modern JavaScript features and best practices.
+- **React:** Biblioteca baseada em componentes.
+- **Vite:** Ferramenta de build rápida e enxuta para desenvolvimento.
+- **TailwindCSS:** Framework CSS utilitário.
+- **JavaScript (ES6+):** Recursos modernos da linguagem JavaScript e boas práticas.
 
-## Installation
+## Instalação
 
-1. **Clone the repository:**
+1. **Clone o repositório:**
 
    ```bash
    git clone https://github.com/your-username/your-portfolio.git
    cd your-portfolio
    ```
 
-2. **Install dependencies:**
+2. **Instale as depêndencias:**
 
    ```bash
    npm install
    ```
 
-3. **Start the development server:**
+3. **Inicia o Server de Desenvolvimento:**
 
    ```bash
    npm run dev
    ```
 
-   The application should now be running at [http://localhost:5173](http://localhost:5173).
+   A aplicação deve estar rodando em: [http://localhost:5173](http://localhost:5173).
 
 ## Build
 
-To create a production build, run:
+Para criar uma build de produção digite:
 
 ```bash
 npm run build
 ```
 
-Then, you can preview the production build with:
+Aí, você poderá ter um preview da build rodando:
 
 ```bash
 npm run preview
 ```
 
-## Folder Structure
+## Estrutura de Pastas
 
 ```
 your-portfolio/
@@ -81,19 +79,19 @@ your-portfolio/
 └── README.md
 ```
 
-## Customization
+## Customização
 
-- **Tailwind CSS:** Modify the `index.css` file or add custom classes to further tweak the design.
-- **Components:** Edit individual components in the `src/components/` folder to update content or styling.
-- **Sections:** Update content in the `src/components/sections/` directory to showcase your personal projects, about info, and contact details.
+- **Tailwind CSS:** Modifique o arquivo index.css ou adicione classes personalizadas para ajustar ainda mais o design.
+- **Componentes:** Edite os componentes individuais na pasta src/components/ para atualizar o conteúdo ou o estilo.
+- **Seções:** Atualize o conteúdo na pasta src/components/sections/ para mostrar seus projetos pessoais, informações sobre você e detalhes de contato.
 
-## Contributing
+## Contriuição
 
-Contributions are welcome! Please open an issue or submit a pull request with improvements.
+Contribuições são bem-vindas! Por favor, abra uma issue ou envie um pull request com melhorias.
 
-## License
+## Licença
 
-This project is open source and available under the [MIT License](LICENSE).
+Este projeto é de código aberto e está disponível sob a Licença [MIT License](LICENSE).
 
 ---
 
