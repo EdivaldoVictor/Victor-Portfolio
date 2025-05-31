@@ -84,7 +84,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Desenvolvedor back-end (18/11/2022 - 06/03/2025){" "}
+                    Desenvolvedor back-end (18/11/2022 - 06/03/2024){" "}
                   </h4>
                   <p>
                     Comecei como desenvolvedor back-end júnior onde construí APIs Rests,
@@ -97,7 +97,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Período íntegral na start-up Aicury, Agindo no Devops{" "}
+                    Período íntegral na start-up Aicury, Agindo no Devops (06/03/2024 - 28/04/2025){" "}
                   </h4>
                   <p>
                     Desenvolvi Deploys automatizados utilizando Azure Devops
